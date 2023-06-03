@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 //@RunWith is a JUnit Annotation
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		tags= "@Regression",
+		tags= "",
 		features = ("classpath:features"),
 		glue = "tek.capstone.dragons",
 		dryRun = false,
