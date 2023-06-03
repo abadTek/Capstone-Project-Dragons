@@ -20,7 +20,7 @@ Feature: Retail Account Page
     And User click on Add a payment method link
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 5431231588889778 | Abadullah  |               5 |           2023 |          001 |
+      | 5431231000889778 | Abadullah  |               5 |           2023 |          001 |
     And User click on Add your card button
     Then a message should be displayed ‘Payment Method added successfully’
 
@@ -30,7 +30,7 @@ Feature: Retail Account Page
     And User click on Edit option of card section
     And user edit information with below data
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 7698714579990042 | Abadullah  |               5 |           2023 |          003 |
+      | 7698714579987642 | Abadullah  |               5 |           2023 |          003 |
     And user click on Update Your Card button
     Then a message should be displayed ‘Payment Method updated Successfully’
 
