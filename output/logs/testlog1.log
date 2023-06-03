@@ -2401,3 +2401,35 @@
 2023-06-03 16:13:14,857 [main] INFO logger_file - User enter email and password successfully
 2023-06-03 16:13:14,911 [main] INFO logger_file - User click on log in button successfully
 2023-06-03 16:13:19,935 [main] INFO logger_file - Account: was verified successfully
+2023-06-03 16:44:55,670 [main] INFO logger_file - User is on retail website
+2023-06-03 16:44:55,783 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-03 16:44:55,983 [main] INFO logger_file - User enter email and password successfully
+2023-06-03 16:44:56,048 [main] INFO logger_file - User click on log in button successfully
+2023-06-03 16:45:01,082 [main] INFO logger_file - Account: was verified successfully
+2023-06-03 16:45:01,431 [main] INFO logger_file - User click on account successfully
+2023-06-03 16:45:01,659 [main] INFO logger_file - User update name and phone number successfully
+2023-06-03 16:45:01,716 [main] INFO logger_file - User click on update button
+2023-06-03 16:45:06,738 [main] INFO logger_file - Your Profile: was Updated successfully
+2023-06-03 16:45:08,749 [main] INFO logger_file - User is on retail website
+2023-06-03 16:45:08,842 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-03 16:45:09,023 [main] INFO logger_file - User enter email and password successfully
+2023-06-03 16:45:09,079 [main] INFO logger_file - User click on log in button successfully
+2023-06-03 16:45:14,106 [main] INFO logger_file - Account: was verified successfully
+2023-06-03 16:45:14,223 [main] INFO logger_file - User change caegory to smartHome
+2023-06-03 16:45:14,293 [main] INFO logger_file - kasa outdoor smart plugitem name was entered successfully
+2023-06-03 16:45:14,355 [main] INFO logger_file - User click on search Bttn
+2023-06-03 16:45:16,934 [main] INFO logger_file - User successfully click on item
+2023-06-03 16:45:17,097 [main] INFO logger_file - User select quantity
+2023-06-03 16:45:17,150 [main] INFO logger_file - User click on add to cart Bttn
+2023-06-03 16:45:17,217 [main] INFO logger_file - the cart icon quantity changed
+2023-06-03 16:46:09,255 [main] INFO logger_file - User is on retail website
+2023-06-03 16:46:09,363 [main] INFO logger_file - User clicked on signin button successfully
+2023-06-03 16:46:09,559 [main] INFO logger_file - User enter email and password successfully
+2023-06-03 16:46:09,622 [main] INFO logger_file - User click on log in button successfully
+2023-06-03 16:46:14,654 [main] INFO logger_file - Account: was verified successfully
+2023-06-03 16:46:14,779 [main] INFO logger_file - User click on account successfully
+2023-06-03 16:46:14,848 [main] INFO logger_file - User click on Card to Eidt
+2023-06-03 16:46:14,916 [main] INFO logger_file - User click on Edit option of card section successfully
+2023-06-03 16:46:15,472 [main] INFO logger_file - User entered the information successfully 
+2023-06-03 16:46:15,530 [main] INFO logger_file - User click Update card Button
+2023-06-03 16:46:16,075 [main] INFO logger_file - Payment Method updated Successfully
